@@ -1,5 +1,5 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
+title = "Scott Larson"
 copyright = "&copy; 2017 Your Name"
 theme = "academic"
 enableEmoji = true
@@ -26,33 +26,32 @@ defaultContentLanguageInSubdir = false
 #   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
-  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
   color_theme = "default"
-
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Scott Larson"
+  role = "Information Technologist and Activist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "profile-scottrlarson.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "slarson@scottrlarson.com"
+  address = ""
+  office_hours = "Monday 10:00am to 4:00pm by appointment"
+  phone = "707-536-1527"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -142,7 +141,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["override.css"]
   custom_js  = []
 
   # Publication types.
@@ -205,22 +204,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:slarson@scottrlarson.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "//twitter.com/scottrlarson"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/scottrlarson"
 
 
 # Navigation Links

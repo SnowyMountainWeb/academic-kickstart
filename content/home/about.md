@@ -7,34 +7,37 @@ date = "2016-04-20T00:00:00"
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
+# List your interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Software and Hardware Investigative Problem-solving",
+    "Natural/Common Law",
+    "Objective Truth and Gnosis"
   ]
 
-# List your qualifications (such as academic degrees).
+# List your qualifications.
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Computer Hardware"
+  type = "Analysis and Replacement"
+  institution = "Self-Learned"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Software and Operating Systems"
+  type = "Custom Setup and Troubleshooting"
+  institution = "Self-Learned"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Data & Network Security"
+  type = "Data Integrity, Recovery, and Protection"
+  institution = "Self-Learned"
   year = 2008
- 
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a computer and information technology professional. I got my start in technology working for small custom computer shops back in the eighties. I moved on to Systems Administration for small networks. Eventually I moved on to providing my own services in Information Technology and Security, Web Services Administration and Content Development.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Along the way I during 9/11 I became concerned with the power de facto centralized governments wields against it's people and started working on [ideas](../greatwork/index.html) that would free us from the tyranny that these institutions disguise as beneficial actions for the good of humanity.

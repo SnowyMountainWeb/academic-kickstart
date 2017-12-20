@@ -1,32 +1,28 @@
 +++
-# Custom widget.
-widget = "custom"
-active = true
-date = 2017-12-19T11:43:07-08:00
+title = "Scott Larson"
+date = 2017-06-22T14:17:11-08:00
+draft = false
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "More about Scott Larson"
-subtitle = ""
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = []
 
-# Order that this section will appear in.
-weight = 100
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
 +++
 
----
-title: More about Scott Larson
-url: [/home/more/]
----
+707-536-1527  
+slarson@scottrlarson.com  
 
-Scott Larson
-532 Humbold Street
-Santa Rosa, CA 95404
-707-536-1527
-slarson@scottrlarson.com
+## Objective
+To provide Information Technology assistance to the public.
 
-##Objective
-To provide desktop support to 50 max people.
-
-##Professional Work History
+## Professional Work History
 2009 - 2017 Scott Larson Computer Repair & Data Recovery - Owner/Operator - Technical Solutions Provider
 
 Serviced the Santa Rosa community in the following ways:
@@ -48,7 +44,7 @@ Serviced the Santa Rosa community in the following ways:
 - Maintained Disaster Recovery and Employee Work Data Backups
 
 
-##TECHNICAL APTITUDE                                                              
+## TECHNICAL APTITUDE                                                              
 
 -  Operating Systems: Windows 2000, 7,8 10, MS-DOS, Unix
 (Solaris, Linux, BSD), OS/X, Linux.
@@ -60,9 +56,9 @@ equipment.
 - Security: IPCop, All Antivirus solitions, Linux (ipchains), Sonicwall Firewalls, Mason, Snort, Nessus
 -  Computer Hardware: x86, x64 PC , Macintosh, Sun workstations
 
-##Professional Project History
+## Professional Project History
 
-###IWeb to Wordpress Site Conversion
+### IWeb to Wordpress Site Conversion
 
 Erica Shane - 2007
 
@@ -70,14 +66,14 @@ Customer wanted to export site to another platform due to Apple's IWeb service b
 
 
 
-###Diagnose & Repair: HTML Website Loading Stuck Issue
+### Diagnose & Repair: HTML Website Loading Stuck Issue
 
 Tantra.com - 2001
 
 Legacy HTML image caching code caused site to stop loading on certain modern web browsers - tracked down from client side using web load tools and reported problem to developer's at tantra.com. tantra.com developer's removed legacy code that was causing the issue.
 
 
-##Scott Larson's Service Center Capabilities
+## Scott Larson's Service Center Capabilities
 
 -   **Systems:** Intel & AMD PC's, Apple Macs
 -   **CPU'S:** Intel & AMD
